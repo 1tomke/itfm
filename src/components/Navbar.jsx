@@ -1,8 +1,8 @@
-import React from 'react'
+import React, { useEffect, useState } from 'react'
 
 const Navbar = () => {
     return (
-        <header className='bg-white'>
+        <header className='w-full bg-white'>
             <nav className='my-5'>
                 <ul className='flex items-center gap-12 mx-52 text-[18px] text-gray-600 font-semibold'>
                     <li>
