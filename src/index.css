@@ -17,4 +17,10 @@
     .custom-scrollbar::-webkit-scrollbar-track {
         background-color: transparent;
     }
+    .input{
+        @apply border-2 rounded w-full px-3.5 py-1;
+    }
+    .label{
+        @apply pb-2 text-sm font-semibold;
+    }
 }
