@@ -16,7 +16,7 @@ const Home = () => {
       <div className='flex h-full w-full'>
         <div className=' w-[50%] flex flex-col items-center justify-center pb-14'>
           <p className='text-slate-700 text-5xl font-bold'>The NEXT generation of<br/>
-                                                            self-service ITFM</p>
+                                                              self-service ITFM</p>
           <p className='text-slate-500 text-xl py-8'>We are building a new generation of ITFM software aimed to<br/>
                                                       address contemporary and future ITFM challenges</p>
           <div className='flex gap-5 pr-[250px]'>

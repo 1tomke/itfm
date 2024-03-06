@@ -45,7 +45,7 @@ const Contact = () => {
           <svg class="w-6 h-6 text-gray-800 dark:text-gray-400" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
             <path stroke="currentColor" stroke-linecap="round" stroke-width="2" d="m3.5 5.5 7.9 6c.4.3.8.3 1.2 0l7.9-6M4 19h16c.6 0 1-.4 1-1V6c0-.6-.4-1-1-1H4a1 1 0 0 0-1 1v12c0 .6.4 1 1 1Z"/>
           </svg>      
-            <a href="" className='text-slate-600 hover:text-slate-950 pl-2'>info@myitfm.com</a>
+            <a href="mailto:andjelkobn@gmail.com" className='text-slate-600 hover:text-slate-950 pl-2'>info@myitfm.com</a>
           </div>
           <div className='pl-32'>
             <img src={img} alt="contact" width={400}/>
